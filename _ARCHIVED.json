@@ -1,0 +1,9 @@
+{
+  "archivedAt": 1789720256000,
+  "reason": "非本系统（aitop.news）的包。指向第三方域名 aihot.virxact.com，来源为 SkillHub 上的他人发布包（ownerId 593852），且正文自述为「ClawHub 8192 token 限制下占 slug 的精简版」，完整版指向 GitHub KKKKhazix/khazix-skills。与本地权威包 aitop-skill (v1.5) 功能重叠并会争抢触发词，故归档。",
+  "originalSlug": "aihot-liuqr",
+  "originalName": "aihot",
+  "originalVersion": "1.0.1",
+  "supersededBy": "~/.workbuddy/skills/aitop-skill/ (v1.5)",
+  "rollback": "将 SKILL.md 首行 name 改回 aihot 并移除 disable_model_invocation 即可恢复。"
+}
